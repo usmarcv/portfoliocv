@@ -583,7 +583,11 @@
       "TableOfContents",
       "about-me",
       "callouts",
+<<<<<<< HEAD
       "chart-459237168",
+=======
+      "chart-185924763",
+>>>>>>> f43b66b (Update chart IDs for data visualization)
       "charts",
       "code",
       "crowd-funded-open-source-software",

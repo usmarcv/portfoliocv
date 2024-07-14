@@ -45,10 +45,10 @@ profiles:
     url: https://orcid.org/0000-0001-6727-1807
 
 interests:
+  - Data Science 🎲
+  - Computer Vision 🖥
   - Machine Learning 🤖
   - Vision Language Models 💬
-  - Computer Vision 🖥
-  - Data Science 🎲
 
 education:
 
