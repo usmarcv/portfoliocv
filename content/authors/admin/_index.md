@@ -186,5 +186,5 @@ awards:
 ## About Me
 
 <p align="justify">
-Márcus Costa is a Ph.D. Student at the University of São Paulo (USP) - Brazil, in the Laboratory of Graphics, Imaging, Visualization and Analytic (GIVA). His research concerns multimodal vision language models to representation learning from 3D data. He received his M.Sc. degree in Computer Science from the University of São Paulo (USP) in 2024. He completed his B.Sc. in Computer Science at the Federal University of Rondônia (UNIR). His main research interest includes Machine Learning, Deep Learning, Computer Vision and Data Science. Also, he has technical skills in C/C++, Java, Python, Git, TensorFlow, Pytorch, Scikit-learn, OpenCV, Docker and LaTeX.
+Márcus Costa is a Ph.D. Student at the University of São Paulo (USP) - Brazil, in the Laboratory of Graphics, Imaging, Visualization and Analytic (GIVA). His research concerns multimodal vision language models to representation learning from 3D data. He received his M.Sc. degree in Computer Science from the University of São Paulo (USP) in 2024. He completed his B.Sc. in Computer Science at the Federal University of Rondônia (UNIR). His main research interest includes Machine Learning, Deep Learning, Computer Vision and Data Science. Also, he has technical skills in C/C++, Java, Python, Git, TensorFlow, Pytorch, Scikit-learn, OpenCV, Docker and LaTeX. tttt
 </p>
