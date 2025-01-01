@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Márcus Costa, MSc"
-date: 2024-09-21
+title: "Márcus Costa"
+date: 2025-01-01
 type: landing
 
 design:
@@ -53,6 +53,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
