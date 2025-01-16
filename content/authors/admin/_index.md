@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Márcus V. L. Costa  
+title: Márcus Costa  
 
 # Name pronunciation (optional)
 #name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Márcus V. L.  
+first_name: Márcus  
 last_name: Costa
 
 # Status emoji
