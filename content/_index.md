@@ -52,7 +52,6 @@ sections:
       filters:
         folders:
           - publication
-        excluded_feature: false
     design:
       view: citation
 
