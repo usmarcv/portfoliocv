@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Radiomics; Radiomics; Deepomics; Deep Learning; Machine Learning; Medical Images | Márcus Costa</title>
+    <link>http://localhost:1313/tags/deep-radiomics-radiomics-deepomics-deep-learning-machine-learning-medical-images/</link>
+      <atom:link href="http://localhost:1313/tags/deep-radiomics-radiomics-deepomics-deep-learning-machine-learning-medical-images/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Radiomics; Radiomics; Deepomics; Deep Learning; Machine Learning; Medical Images</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Deep Radiomics; Radiomics; Deepomics; Deep Learning; Machine Learning; Medical Images</title>
+      <link>http://localhost:1313/tags/deep-radiomics-radiomics-deepomics-deep-learning-machine-learning-medical-images/</link>
+    </image>
+    
+    <item>
+      <title>DEELE-Rad: exploiting deep radiomics features in deep learning models using COVID-19 chest X-ray images</title>
+      <link>http://localhost:1313/publication/costa-2024/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/costa-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

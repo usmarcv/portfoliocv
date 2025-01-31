@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19; Adaptation Models; Visualization; Transfer Learning; Feature Extraction; Classification Algorithms; Task Analysis;Deep Learning;Deep Radiomics; Deep Features; Radiomics; Medical Images | Márcus Costa</title>
+    <link>http://localhost:1313/tags/covid-19-adaptation-models-visualization-transfer-learning-feature-extraction-classification-algorithms-task-analysisdeep-learningdeep-radiomics-deep-features-radiomics-medical-images/</link>
+      <atom:link href="http://localhost:1313/tags/covid-19-adaptation-models-visualization-transfer-learning-feature-extraction-classification-algorithms-task-analysisdeep-learningdeep-radiomics-deep-features-radiomics-medical-images/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19; Adaptation Models; Visualization; Transfer Learning; Feature Extraction; Classification Algorithms; Task Analysis;Deep Learning;Deep Radiomics; Deep Features; Radiomics; Medical Images</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>COVID-19; Adaptation Models; Visualization; Transfer Learning; Feature Extraction; Classification Algorithms; Task Analysis;Deep Learning;Deep Radiomics; Deep Features; Radiomics; Medical Images</title>
+      <link>http://localhost:1313/tags/covid-19-adaptation-models-visualization-transfer-learning-feature-extraction-classification-algorithms-task-analysisdeep-learningdeep-radiomics-deep-features-radiomics-medical-images/</link>
+    </image>
+    
+    <item>
+      <title>A Deep Learning-based Radiomics Approach for COVID-19 Detection from CXR Images using Ensemble Learning Model</title>
+      <link>http://localhost:1313/publication/costa-2023/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/costa-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
