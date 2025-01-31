@@ -40,7 +40,7 @@ summary: ''
 
 tags:
 - Deep learning; Visualization; Computational modeling; Computed tomography; Optical coherence
-  tomography; Data models; Reliability;Deep Learning; Adversarial Attacks; Security &
+  tomography; Data models; Reliability; Deep Learning; Adversarial Attacks; Security &
   Privacy; Medical Images
 
 # Display this page in a list of Featured pages?
